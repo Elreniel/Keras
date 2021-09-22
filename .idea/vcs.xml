@@ -2,8 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/fasterRCNN/BCCD_Dataset" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/fasterRCNN/keras-frcnn" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/faster_rcnn/frcnn-from-scratch-with-keras" vcs="Git" />
   </component>
 </project>
